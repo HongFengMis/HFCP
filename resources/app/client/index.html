@@ -1,0 +1,244 @@
+﻿<!DOCTYPE html>
+<!--终端框架结构 ; verson 1.2.0 ; verson-data 2015-12-18-->
+<html>
+<head lang="cn">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width">
+    <title>展厅智能体验系统</title>
+
+    <link rel="stylesheet" href="../../assets/css/inc.css">
+    <link rel="stylesheet" href="../../assets/css/index.css">
+    <link rel="stylesheet" href="../../assets/css/page1.css">
+    <link rel="stylesheet" href="../../assets/css/page2.css">
+
+    <link rel="stylesheet" href="lib/flipster/jquery.flipster.css">
+
+</head>
+
+<body ondragstart="return false" onselect="return false" onselectstart="return false" oncontextmenu="return false">
+<div id="CC">
+<!-- style="transform:scale(0.5); transform-origin: top left;" -->
+    <div id="_unable"></div>
+
+    <section class="cc" id="Loader">
+        <img src="../../assets/img/loader.svg" width="88" alt="">
+        <div class="word"></div>
+    </section>
+
+    <section class="cc" id="Index">
+
+        <div class="v2">
+            <video id="v2" src="../../assets/video/2.mp4" loop="loop"></video>
+        </div>
+
+        <div class="v1">
+            <video id="v1" src="../../assets/video/1.mp4"></video>
+        </div>
+
+        <div class="logo"></div>
+
+        <div class="box"></div>
+
+        <div class="btn1"></div>
+
+        <div class="btn2"></div>
+
+        <div class="copy">中朗策划设计 www.zoolad.com</div>
+
+    </section>
+
+    <section class="cc" id="Page1">
+
+        <div class="Tit"></div>
+        <div class="Tits Tit0"></div>
+        <div class="Tits Tit1"></div>
+        <div class="Tits Tit2"></div>
+        <div class="Tits Tit3"></div>
+        <div class="Tits Tit4"></div>
+        <div class="Tits Tit5"></div>
+        <div class="Tits Tit6"></div>
+
+        <div class="back"></div>
+
+        <div class="box"></div>
+
+        <div class="box_tit"></div>
+        <div class="btn btn1" data-id="1"></div>
+        <div class="btn btn2" data-id="2"></div>
+        <div class="btn btn3" data-id="3"></div>
+        <div class="btn btn4" data-id="4"></div>
+        <div class="btn btn5" data-id="5"></div>
+        <div class="btn btn6" data-id="6"></div>
+
+        <div class="footer">
+            <div class="icon"></div>
+            <div class="time nowTime" id=""></div>
+            <div class="copy">中朗策划设计 www.zoolad.com</div>
+        </div>
+
+    </section>
+
+    <section class="cc" id="Page2">
+
+        <div class="Tit"></div>
+        <div class="Tits Tit0"></div>
+        <div class="Tits Tit1"></div>
+        <div class="Tits Tit2"></div>
+        <div class="Tits Tit3"></div>
+        <div class="Tits Tit4"></div>
+
+        <div class="back"></div>
+
+        <div class="box"></div>
+
+        <div class="box_tit"></div>
+        <div class="btn btn1" data-id="1"></div>
+        <div class="btn btn2" data-id="2"></div>
+        <div class="btn btn3" data-id="3"></div>
+        <div class="btn btn4" data-id="4"></div>
+
+        <div class="footer">
+            <div class="icon"></div>
+            <div class="time nowTime"></div>
+            <div class="copy">中朗策划设计</div>
+        </div>
+
+    </section>
+
+    <script type="text/template" id="View_page1">
+        <section class="cc Page1" id="Page1_{$id}">
+
+            <div class="back">
+                <div class="bb" data-id="{$id}"></div>
+                <div class="cn act"></div>
+                <div class="en"></div>
+            </div>
+
+            <div class="main">{$m}</div>
+            <div class="menus">{$menus}</div>
+
+        </section>
+    </script>
+
+    <script type="text/template" id="View_page1_m">
+        <div class="m m{$i}">
+            <div class="tit_img"></div>
+            <div class="tit"><span class="CN">{$tit}</span><span class="EN">{$tit_en}</span></div>
+            <div class="pic">
+                <img src="../../uploads/page1/{$img}">
+            </div>
+            <div class="case">
+
+                <div class="flipster flipster{$id}_{$i}">
+                    <ul>{$caseLi}</ul>
+                        <!--<li><img src="../../uploads/page1/c1_1.png"></li>-->
+                        <!--<li><img src="../../uploads/page1/c1_2.png"></li>-->
+                        <!--<li><img src="../../uploads/page1/c1_3.png"></li>-->
+                        <!--<li><img src="../../uploads/page1/c1_4.png"></li>-->
+
+                </div>
+
+            </div>
+
+            <div class="case_hammer" data-id="{$id}_{$i}"></div>
+
+            <div class="btn_intro" data-id="{$id}_{$i}"></div>
+
+            <div class="intro intro{$id}_{$i}">
+                <div class="bg"></div>
+                <div class="cls"></div>
+                <div class="picZoom CN">
+                    <img src="../../uploads/page1/{$pic}">
+                </div>
+                <div class="picZoom EN">
+                    <img src="../../uploads/page1/{$pic_en}">
+                </div>
+            </div>
+
+        </div>
+    </script>
+
+    <script type="text/template" id="View_page1_menu">
+        <div class="menu menu{$i}" data-mid="{$i}" data-id="{$id}">
+            <div class="act"></div>
+            <img class="img" src="../../uploads/page1/{$menu}">
+            <div class="tit"><span class="CN">{$tit}</span><span class="EN">{$tit_en}</span></div>
+        </div>
+    </script>
+
+    <script type="text/template" id="View_page2">
+        <section class="cc Page2" id="Page2_{$id}">
+
+            <div class="back">
+                <div class="bb" data-id="{$id}"></div>
+                <div class="cn act"></div>
+                <div class="en"></div>
+            </div>
+
+            <div class="main">{$m}</div>
+            <div class="menus">{$menus}</div>
+
+        </section>
+    </script>
+
+    <script type="text/template" id="View_page2_m">
+        <div class="m m{$i}">
+            <div class="tit1"><span class="CN">{$tit}</span><span class="EN">{$tit_en}</span></div>
+            <div class="tit1_1"><span class="CN">概述</span><span class="EN">Overview</span></div>
+            <div class="info1 HammerScroll"><span class="CN">{$info1}</span><span class="EN">{$info1_en}</span></div>
+            <div class="pic"><img src="../../uploads/page2/{$pic}"></div>
+            <div class="tit2"><span class="CN">触点材料的选择</span><span class="EN">Contact materials</span></div>
+            <div class="info2 HammerScroll"><span class="CN">{$info2}</span><span class="EN">{$info2_en}</span></div>
+            <div class="tit3"><span class="CN">我们的产品</span><span class="EN">Our Products</span></div>
+            <div class="info3 HammerScroll"><span class="CN">{$info3}</span><span class="EN">{$info3_en}</span></div>
+        </div>
+    </script>
+
+    <script type="text/template" id="View_page2_menu">
+        <div class="menu menu{$i}" data-mid="{$i}" data-id="{$id}">
+            <div class="act"></div>
+            <img class="img" src="../../uploads/page2/{$img}">
+            <div class="tit"><span class="CN">{$tit}</span><span class="EN">{$tit_en}</span></div>
+        </div>
+    </script>
+
+</div>
+
+</body>
+
+<!--基础插件-->
+<script>window.$ = window.jQuery = require('jquery');</script>
+<script src="lib/underscore.js"></script>
+<!--<script src="lib/ws.js"></script>-->
+<!--<script src="socket.io/socket.io.js"></script>-->
+
+<script>window.Hammer = require('hammerjs');</script>
+<script src="lib/hammer/hammer_scroll.js"></script>
+<script src="lib/hammer/hammer_img.js"></script>
+
+<script src="lib/flipster/jquery.flipster.js"></script>
+
+<script src="lib/velocity/velocity.js"></script>
+<script src="lib/createjs/createjs.min.js"></script>
+<script src="lib/libs.js"></script>
+<script src="lib/libs_media.js"></script>
+
+<!--主程序-->
+<script src="../../assets/config.js"></script>
+<script src="js/init.js"></script>
+<script src="js/server.js"></script>
+<!--<script src="js/mp3.js"></script>-->
+<script src="js/index.js"></script>
+<script src="js/page1.js"></script>
+<script src="js/page2.js"></script>
+
+<script>
+
+    $(window).load(function(){ loader(); });
+    document.getElementById("CC").addEventListener('touchmove', function (event) {
+        event.preventDefault();
+        event.stopPropagation();
+    });
+
+</script>
+</html>

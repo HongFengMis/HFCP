@@ -1,0 +1,160 @@
+﻿@charset "utf-8";
+
+
+/*Page*/
+#Page2{
+    background: url("../img/bg.png") no-repeat;
+}
+#Page2 .Tit{
+    position: absolute; left: 0px; top: 102px;
+    width: 407px; height: 101px;
+    background: url("../img/page2/tit.png") no-repeat;
+    z-index: 9999;
+}
+#Page2 .Tits{
+    position: absolute; left: 407px; top: 102px;
+    width: 311px; height: 101px; display: none;
+}
+#Page2 .Tit0{
+    background: url("../img/page2/tit0.png") no-repeat;
+    display: block;
+}
+#Page2 .Tit1{
+    background: url("../img/page2/tit1.png") no-repeat;
+}
+#Page2 .Tit2{
+    background: url("../img/page2/tit2.png") no-repeat;
+}
+#Page2 .Tit3{
+    background: url("../img/page2/tit3.png") no-repeat;
+}
+#Page2 .Tit4{
+    background: url("../img/page2/tit4.png") no-repeat;
+}
+
+#Page2 .back{
+    position: absolute; left: 1699px; top: 102px;
+    width: 221px; height: 60px;
+    background: url("../img/page2/back.png") no-repeat;
+}
+
+#Page2 .box{
+    position: absolute; left: 0px; top: 542px;
+    width: 1920px; height: 434px;
+    background-color: #002c5d; opacity: 0.6;
+    border-bottom: 1px solid #5ba8ff;
+    border-top: 1px solid #5ba8ff;
+}
+#Page2 .box_tit{
+    position: absolute; left: 0px; top: 582px;
+    width: 1920px; height: 36px;
+    background: url("../img/page2/box_tit.png") no-repeat;
+}
+
+#Page2 .btn{
+    position: absolute; top: 662px;
+    width: 252px; height: 274px;
+}
+#Page2 .btn1{ left: 181px; background: url("../img/page2/icon1.png") no-repeat;}
+#Page2 .btn2{ left: 617px; background: url("../img/page2/icon2.png") no-repeat;}
+#Page2 .btn3{ left: 1053px; background: url("../img/page2/icon3.png") no-repeat;}
+#Page2 .btn4{ left: 1489px; background: url("../img/page2/icon4.png") no-repeat;}
+
+
+
+/*Page2  子页*/
+.Page2 .back{
+    position: absolute; left: 1533px; top: 102px;
+    width: 387px; height: 60px;
+    z-index: 99;
+}
+.Page2 .back .bb{
+    position: absolute; left: 0px; top: 0px;
+    width: 223px; height: 60px;
+    background: url("../img/page2/back2.png") no-repeat;
+}
+
+.Page2 .main{
+    position: absolute; left: 0px; top: 0px;
+    height: 826px;
+    overflow: hidden;
+}
+.Page2 .m{
+    position: relative; float: left;
+    width: 1920px; height: 826px;
+}
+.Page2 .m .tit1{
+    position: absolute; left: 70px; top: 292px;
+    height: 50px; width: 505px;
+    border-bottom: 2px solid #327dc0;
+    font-size: 30px; color:#92f3ff;
+}
+.Page2 .m .tit1_1{
+    position: absolute; left: 70px; top: 370px;
+    font-size: 24px;
+    color:#92f3ff;
+}
+.Page2 .m .info1{
+    position: absolute; left: 70px; top: 416px;
+    height: 347px; width: 505px;
+    font-size: 18px;
+    color:#6dd4ef;
+    border-bottom: 2px solid #327dc0;
+}
+.Page2 .m .pic{
+    position: absolute; left: 620px; top: 345px;
+    width: 734px; height: 404px;
+    background: url("../img/img.png") no-repeat;
+    padding: 2px;
+}
+.Page2 .m .tit2{
+    position: absolute; left: 1400px; top: 306px;
+    width: 474px; height: 38px;
+    border-bottom: 2px solid #327dc0;
+    font-size: 18px; color:#92f3ff;
+}
+.Page2 .m .info2{
+    position: absolute; left: 1400px; top: 365px;
+    width: 474px; height: 170px;
+    font-size: 18px;
+    color:#6dd4ef;
+}
+.Page2 .m .tit3{
+    position: absolute; left: 1400px; top: 548px;
+    width: 474px; height: 38px;
+    border-bottom: 2px solid #327dc0;
+    font-size: 18px; color:#92f3ff;
+}
+.Page2 .m .info3{
+    position: absolute; left: 1400px; top: 600px;
+    width: 474px; height: 164px;
+    font-size: 18px;
+    color:#6dd4ef;
+}
+
+.Page2 .menus{
+    position: absolute; left: 0px; top: 826px;
+    width: 100%; height: 200px;
+}
+.Page2 .menus .menu{
+    float: left; position: relative;
+    width: 185px; height: 200px;
+}
+.Page2 .menus .menu .act{
+    position: absolute; left: 0px; top: 0px;
+    width: 185px; height: 130px;
+    opacity: 0;
+    background: url("../img/menu_img.png") no-repeat;
+}
+.Page2 .menus .menu .img{
+    position: absolute; left: 17px; top: 17px;
+    border: 1px solid #327dc0;
+}
+.Page2 .menus .menu .tit{
+    position: absolute; left: 20px; top: 126px;
+    width: 145px;
+    text-align: center;
+    font-size: 18px;
+    color: #5ba8ff;
+}
+.Page2 .menus .menu .tit .EN{ font-size: 16px; }

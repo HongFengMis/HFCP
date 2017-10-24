@@ -1,0 +1,772 @@
+{
+    "date": "2017-07-01 20:04:49",
+    "page1": {
+        "p1_1": [
+            {
+                "tit": "银氧化锡",
+                "tit_en": "AgSnO2",
+                "menu": "20170701194926869.png",
+                "menu_size": "75682",
+                "case": [
+                    "20170701194449387.jpg",
+                    "20170701194457424.jpg",
+                    "20170701194508499.jpg",
+                    "20170701194518440.jpg"
+                ],
+                "case_size": [
+                    "76342",
+                    "68297",
+                    "71017",
+                    "95255"
+                ],
+                "img": "20170701194932140.png",
+                "img_size": "758644",
+                "pic": "20170628213056360.png",
+                "pic_size": "3060541",
+                "pic_en": "20170628213055803.png",
+                "pic_en_size": "3060385"
+            },
+            {
+                "tit": "银氧化锌",
+                "tit_en": "AgZnO",
+                "menu": "20170701194319775.png",
+                "menu_size": "76051",
+                "case": [
+                    "20170701194559651.jpg",
+                    "20170701194606973.jpg",
+                    "20170701194613499.jpg"
+                ],
+                "case_size": [
+                    "73143",
+                    "67394",
+                    "65733"
+                ],
+                "img": "20170701194333775.png",
+                "img_size": "758831",
+                "pic": "20170701194355962.png",
+                "pic_size": "3059786",
+                "pic_en": "20170628184657130.png",
+                "pic_en_size": "3059344"
+            },
+            {
+                "tit": "银钨",
+                "tit_en": "AgW",
+                "menu": "20170628164258269.png",
+                "menu_size": "76023",
+                "case": [
+                    "20170628172653811.jpg",
+                    "20170628172709846.jpg",
+                    "20170628172724323.jpg",
+                    "20170628172735758.jpg"
+                ],
+                "case_size": [
+                    "76979",
+                    "77791",
+                    "63626",
+                    "64235"
+                ],
+                "img": "20170628164302364.png",
+                "img_size": "758735",
+                "pic": "20170628212045439.png",
+                "pic_size": "3060541",
+                "pic_en": "20170628212015863.png",
+                "pic_en_size": "3060385"
+            },
+            {
+                "tit": "银碳化钨",
+                "tit_en": "AgWC",
+                "menu": "20170628173641666.png",
+                "menu_size": "76114",
+                "case": [
+                    "20170628174255158.jpg",
+                    "20170628174306779.jpg"
+                ],
+                "case_size": [
+                    "69257",
+                    "86471"
+                ],
+                "img": "20170628173647434.png",
+                "img_size": "758826",
+                "pic": "20170628213706693.png",
+                "pic_size": "3060541",
+                "pic_en": "20170628213706908.png",
+                "pic_en_size": "3060385"
+            },
+            {
+                "tit": "银碳化钨石墨",
+                "tit_en": "AgWCC",
+                "menu": "20170628174613218.png",
+                "menu_size": "76205",
+                "case": [
+                    "20170628175053723.jpg",
+                    "20170628175102349.jpg",
+                    "20170628175110766.jpg",
+                    "20170628175120967.jpg",
+                    "20170628175128595.jpg"
+                ],
+                "case_size": [
+                    "74387",
+                    "96907",
+                    "63180",
+                    "90870",
+                    "69775"
+                ],
+                "img": "20170628174617816.png",
+                "img_size": "758917",
+                "pic": "20170628205838117.jpg",
+                "pic_size": "85644",
+                "pic_en": "20170628205841669.jpg",
+                "pic_en_size": "82175"
+            },
+            {
+                "tit": "银石墨",
+                "tit_en": "AgC",
+                "menu": "20170628214131539.png",
+                "menu_size": "76051",
+                "case": [
+                    "20170628215010617.jpg",
+                    "20170628214932531.jpg",
+                    "20170628214944490.jpg",
+                    "20170628214958431.jpg"
+                ],
+                "case_size": [
+                    "56358",
+                    "82744",
+                    "74304",
+                    "70852"
+                ],
+                "img": "20170628214135233.png",
+                "img_size": "758831",
+                "pic": "20170628214345922.jpg",
+                "pic_size": "3893662",
+                "pic_en": "20170701200303772.jpg",
+                "pic_en_size": "4241707"
+            },
+            {
+                "tit": "银镍",
+                "tit_en": "AgNi",
+                "menu": "20170628215441704.png",
+                "menu_size": "76142",
+                "case": [
+                    "20170628221548478.jpg"
+                ],
+                "case_size": [
+                    "80176"
+                ],
+                "img": "20170628215446828.png",
+                "img_size": "758922",
+                "pic": "20170628221355112.png",
+                "pic_size": "3060202",
+                "pic_en": "20170628225341142.png",
+                "pic_en_size": "3060202"
+            },
+            {
+                "tit": "铜钨",
+                "tit_en": "CuW",
+                "menu": "20170628222959354.png",
+                "menu_size": "76233",
+                "case": [
+                    "20170628223435223.jpg",
+                    "20170628223445725.jpg"
+                ],
+                "case_size": [
+                    "79203",
+                    "78211"
+                ],
+                "img": "20170628223202826.png",
+                "img_size": "759013",
+                "pic": "20170628222923421.jpg",
+                "pic_size": "3028774",
+                "pic_en": "20170628222932670.jpg",
+                "pic_en_size": "3288458"
+            },
+            {
+                "tit": "新型AgW50/Cu电接触材料",
+                "tit_en": "AgW50/Cu",
+                "menu": "20170628223943134.png",
+                "menu_size": "76324",
+                "case": [
+                    "20170628224528559.jpg",
+                    "20170628224613534.jpg"
+                ],
+                "case_size": [
+                    "72093",
+                    "68181"
+                ],
+                "img": "20170628223947208.png",
+                "img_size": "759104",
+                "pic": "20170628224021478.jpg",
+                "pic_size": "85644",
+                "pic_en": "20170628224024202.jpg",
+                "pic_en_size": "82175"
+            }
+        ],
+        "p1_2": [
+            {
+                "tit": "多层复合异形焊接型触点",
+                "tit_en": "composite button contact",
+                "menu": "20170629134002750.png",
+                "menu_size": "76142",
+                "case": [
+                    "20170629135317777.jpg",
+                    "20170629135334374.jpg",
+                    "20170629135355345.jpg",
+                    "20170629135430126.jpg",
+                    "20170629135412626.jpg",
+                    "20170629135455694.jpg",
+                    "20170629135507973.jpg"
+                ],
+                "case_size": [
+                    "41005",
+                    "65598",
+                    "58247",
+                    "69187",
+                    "78806",
+                    "77648",
+                    "147773"
+                ],
+                "img": "20170629134018632.png",
+                "img_size": "758922",
+                "pic": "20170629134402602.jpg",
+                "pic_size": "2613630",
+                "pic_en": "20170629134408597.jpg",
+                "pic_en_size": "3015313"
+            },
+            {
+                "tit": "铆钉",
+                "tit_en": "composite rivet contact",
+                "menu": "20170629140212831.png",
+                "menu_size": "76324",
+                "case": [
+                    "20170629141350698.jpg",
+                    "20170629141400283.jpg",
+                    "20170629141411211.jpg",
+                    "20170629141420195.jpg",
+                    "20170629141430446.jpg",
+                    "20170629141439325.jpg",
+                    "20170629141449410.jpg"
+                ],
+                "case_size": [
+                    "69404",
+                    "68222",
+                    "68409",
+                    "82537",
+                    "73493",
+                    "69179",
+                    "65024"
+                ],
+                "img": "20170629140217622.png",
+                "img_size": "759104",
+                "pic": "20170629140311467.jpg",
+                "pic_size": "3574558",
+                "pic_en": "20170629140316763.jpg",
+                "pic_en_size": "3938516"
+            },
+            {
+                "tit": "复合带材及冲件",
+                "tit_en": "clad strip & stamped parts",
+                "menu": "20170629142337904.png",
+                "menu_size": "76415",
+                "case": [
+                    "20170629142833596.jpg",
+                    "20170629142841236.jpg",
+                    "20170629142850349.jpg",
+                    "20170629142857297.jpg",
+                    "20170629142906552.jpg"
+                ],
+                "case_size": [
+                    "83134",
+                    "63628",
+                    "55707",
+                    "64747",
+                    "61259"
+                ],
+                "img": "20170629142343518.png",
+                "img_size": "759104",
+                "pic": "20170629142440634.jpg",
+                "pic_size": "1889910",
+                "pic_en": "20170629142444243.jpg",
+                "pic_en_size": "1898083"
+            },
+            {
+                "tit": "复铜钢",
+                "tit_en": "Cu/Fe/Cu clad materials",
+                "menu": "20170629150436986.png",
+                "menu_size": "76506",
+                "case": [
+                    "20170629151219827.jpg",
+                    "20170629151228562.jpg",
+                    "20170629151237170.jpg",
+                    "20170629151245328.jpg"
+                ],
+                "case_size": [
+                    "51672",
+                    "46926",
+                    "59069",
+                    "76169"
+                ],
+                "img": "20170629150439934.png",
+                "img_size": "759195",
+                "pic": "20170629150531695.jpg",
+                "pic_size": "85644",
+                "pic_en": "20170629150557971.jpg",
+                "pic_en_size": "2073075"
+            },
+            {
+                "tit": "新型Cu/Ag/Cu双侧面复合薄带材",
+                "tit_en": "novel Cu/Ag/Cu clad material",
+                "menu": "20170629151635442.png",
+                "menu_size": "76597",
+                "case": [
+                    "20170629152255426.jpg",
+                    "20170629152304488.jpg",
+                    "20170629152314774.jpg"
+                ],
+                "case_size": [
+                    "70255",
+                    "81296",
+                    "103822"
+                ],
+                "img": "20170629151639818.png",
+                "img_size": "759286",
+                "pic": "20170629151823478.jpg",
+                "pic_size": "2126673",
+                "pic_en": "20170629151830404.jpg",
+                "pic_en_size": "2512437"
+            }
+        ],
+        "p1_3": [
+            {
+                "tit": "铆合件",
+                "tit_en": "staked contact assemblies",
+                "menu": "20170629153359700.png",
+                "menu_size": "77234",
+                "case": [
+                    "20170629155638834.jpg",
+                    "20170629155655371.jpg",
+                    "20170629155705880.jpg",
+                    "20170629155713738.jpg",
+                    "20170629155720495.jpg",
+                    "20170629155728666.jpg",
+                    "20170629155738814.jpg",
+                    "20170629155746221.jpg",
+                    "20170629155758242.jpg",
+                    "20170629155807372.jpg",
+                    "20170629155843164.jpg",
+                    "20170629155852589.jpg",
+                    "20170629155900334.jpg",
+                    "20170629155910651.jpg",
+                    "20170629155921192.jpg",
+                    "20170629155928920.jpg",
+                    "20170629155936697.jpg"
+                ],
+                "case_size": [
+                    "67805",
+                    "64006",
+                    "73355",
+                    "103817",
+                    "61234",
+                    "87500",
+                    "100406",
+                    "71515",
+                    "80481",
+                    "63249",
+                    "69284",
+                    "72500",
+                    "74016",
+                    "60111",
+                    "68832",
+                    "78324",
+                    "98943"
+                ],
+                "img": "20170629153403969.png",
+                "img_size": "759741",
+                "pic": "20170629153428553.jpg",
+                "pic_size": "85644",
+                "pic_en": "20170629153432606.jpg",
+                "pic_en_size": "82175"
+            },
+            {
+                "tit": "焊接件",
+                "tit_en": "welded contact assemblies",
+                "menu": "20170629160337859.png",
+                "menu_size": "76688",
+                "case": [
+                    "20170629161402692.jpg",
+                    "20170629161410380.jpg",
+                    "20170629161417443.jpg",
+                    "20170629161423604.jpg",
+                    "20170629161430820.jpg",
+                    "20170629161436782.jpg",
+                    "20170629161444466.jpg",
+                    "20170629161451483.jpg",
+                    "20170629161459454.jpg",
+                    "20170629161506833.jpg",
+                    "20170629161513328.jpg"
+                ],
+                "case_size": [
+                    "74661",
+                    "61290",
+                    "87138",
+                    "77127",
+                    "86041",
+                    "86495",
+                    "79379",
+                    "82915",
+                    "85530",
+                    "66424",
+                    "48668"
+                ],
+                "img": "20170629160341442.png",
+                "img_size": "758831",
+                "pic": "20170629160357178.jpg",
+                "pic_size": "85644",
+                "pic_en": "20170629160400878.jpg",
+                "pic_en_size": "82175"
+            }
+        ],
+        "p1_4": [
+            {
+                "tit": "焊膏",
+                "tit_en": "Solder paste",
+                "menu": "20170629161954584.png",
+                "menu_size": "76128",
+                "case": [
+                    "20170629162200629.jpg"
+                ],
+                "case_size": [
+                    "93217"
+                ],
+                "img": "20170629161958981.png",
+                "img_size": "758999",
+                "pic": "20170629162008100.jpg",
+                "pic_size": "85644",
+                "pic_en": "20170629162011641.jpg",
+                "pic_en_size": "82175"
+            },
+            {
+                "tit": "钎焊材料体系",
+                "tit_en": "Brazing material system",
+                "menu": "20170629162628334.png",
+                "menu_size": "76128",
+                "case": [
+                    "20170629163218193.jpg"
+                ],
+                "case_size": [
+                    "172558"
+                ],
+                "img": "20170629162632284.png",
+                "img_size": "758999",
+                "pic": "20170629191240191.jpg",
+                "pic_size": "3607375",
+                "pic_en": "20170629163015637.jpg",
+                "pic_en_size": "3964502"
+            }
+        ],
+        "p1_5": [
+            {
+                "tit": "冲件",
+                "tit_en": "Stamping",
+                "menu": "20170629163602815.png",
+                "menu_size": "76296",
+                "case": [
+                    "20170629163833257.jpg"
+                ],
+                "case_size": [
+                    "73807"
+                ],
+                "img": "20170629163604932.png",
+                "img_size": "759167",
+                "pic": "20170629163622363.jpg",
+                "pic_size": "85644",
+                "pic_en": "20170629163625987.jpg",
+                "pic_en_size": "82175"
+            },
+            {
+                "tit": "带材",
+                "tit_en": "Strip",
+                "menu": "20170629164125266.png",
+                "menu_size": "76387",
+                "case": [
+                    "20170629164416216.jpg",
+                    "20170629164423770.jpg",
+                    "20170629164430882.jpg"
+                ],
+                "case_size": [
+                    "75267",
+                    "85757",
+                    "65614"
+                ],
+                "img": "20170629164128241.png",
+                "img_size": "759258",
+                "pic": "20170629164143492.jpg",
+                "pic_size": "85644",
+                "pic_en": "20170629164146366.jpg",
+                "pic_en_size": "82175"
+            }
+        ],
+        "p1_6": [
+            {
+                "tit": "挤压棒料硬质合金",
+                "tit_en": "Hard Alloy used in Extrusion bar",
+                "menu": "20170629164828550.png",
+                "menu_size": "76643",
+                "case": [
+                    "20170629165854669.jpg",
+                    "20170629165906506.jpg"
+                ],
+                "case_size": [
+                    "150791",
+                    "90225"
+                ],
+                "img": "20170629164833306.png",
+                "img_size": "759514",
+                "pic": "20170629165457236.jpg",
+                "pic_size": "1130919",
+                "pic_en": "20170629165558552.jpg",
+                "pic_en_size": "1198945"
+            },
+            {
+                "tit": "切削用硬质合金",
+                "tit_en": "Cutting Carbide",
+                "menu": "20170629170322631.png",
+                "menu_size": "76734",
+                "case": [
+                    "20170629171055973.jpg",
+                    "20170629171105150.jpg",
+                    "20170629171113855.jpg",
+                    "20170629171147250.jpg",
+                    "20170629171205309.jpg",
+                    "20170629171216633.jpg"
+                ],
+                "case_size": [
+                    "109839",
+                    "110767",
+                    "127460",
+                    "127460",
+                    "102277",
+                    "126008"
+                ],
+                "img": "20170629170326468.png",
+                "img_size": "759605",
+                "pic": "20170629170434441.jpg",
+                "pic_size": "1156849",
+                "pic_en": "20170629170439361.jpg",
+                "pic_en_size": "1229405"
+            },
+            {
+                "tit": "模具、耐磨零件用硬质合金",
+                "tit_en": "Hard Alloy used in Mould and Wear part",
+                "menu": "20170629171530853.png",
+                "menu_size": "76902",
+                "case": [
+                    "20170629172026100.jpg",
+                    "20170629172032521.jpg",
+                    "20170629172040637.jpg",
+                    "20170629172048442.jpg"
+                ],
+                "case_size": [
+                    "121990",
+                    "108069",
+                    "114371",
+                    "102402"
+                ],
+                "img": "20170629171533678.png",
+                "img_size": "759773",
+                "pic": "20170629171634210.jpg",
+                "pic_size": "1006660",
+                "pic_en": "20170629171638638.jpg",
+                "pic_en_size": "1085568"
+            },
+            {
+                "tit": "地质矿山工具硬质合金",
+                "tit_en": "Hard Alloy used in Geological Mine Tools",
+                "menu": "20170629172350132.png",
+                "menu_size": "76993",
+                "case": [
+                    "20170629172932599.jpg",
+                    "20170629172939676.jpg",
+                    "20170629172946747.jpg",
+                    "20170629172951368.jpg"
+                ],
+                "case_size": [
+                    "124573",
+                    "129515",
+                    "123816",
+                    "135415"
+                ],
+                "img": "20170629172353339.png",
+                "img_size": "759864",
+                "pic": "20170629172557365.jpg",
+                "pic_size": "1118945",
+                "pic_en": "20170629172602773.jpg",
+                "pic_en_size": "1210088"
+            }
+        ]
+    },
+    "page2": {
+        "p2_1": [
+            {
+                "tit": "交流接触器",
+                "tit_en": "AC contactor",
+                "img_size": "75609",
+                "img": "20170628205412786.png",
+                "info1": "<p>交流接触器，指一种利用线圈流过电流产生磁场，使触头闭合，以达到控制负载的自动化切换器。接触器控制容量大，可远距离操作，适用于频繁接通或分断交、直流电路，配合继电器可以实现定时操作，联锁控制，各种定量控制和失压及欠压保护。其主要控制对象是电动机，也可用于控制其它电力负载，如电热器、照明、电焊机、电容器组等。小型的接触器也经常作为中间继电器配合主电路使用。</p>",
+                "info1_en": "<p>AC contactors, also known as electromagnetic switches, have been widely employed in the application of power control. The operating principle of AC contactor is attained by providing current to the windings of the contactor to induce a magnetic field in order to manipulate the contact switch of the AC contactor to open or close, thereby controlling the power appliance. As the AC contactor is durable in large-current applications where the maximum allowable current is as high as 800amps, and is able to readily and frequently turn on or off the power supply for high-current power appliance, e.g. 380 V AC, the AC contactor is commonly used to control the electromagnetic motor with high startup current. The AC contactor can also be employed to control factory equipment, electric heater, metal working machine, or auto-control electric apparatus, thereby fulfilling the purpose of remotely controlling the power appliance or automatically controlling the power appliance.</p>",
+                "info2": "<p>（1）在32安培以下的小负荷电路中常用铆钉有：AgCdO12、AgNi10；<br />（2）在32安培以上（含32安培）的电路中，触点形态通常为片材，其材质为AgCdO15或者较为环保的AgSnO2、AgSnO2InO3。个别情况亦采用AgCdO12片材。</p>",
+                "info2_en": "<p>（1）For a less than 32 amp circuit load, rivets are often made from AgCdO (12) and AgNi (10)&nbsp;<br />（2）For an over 32 amp (32 amp included) circuit load, contact tips are made from AgCdO(15) or environment-friendly AgSnO2 and AgSnO2In2O3 for RoHS in sheets. In some cases, AgCdO(12) sheet is used.</p>",
+                "info3": "<p>触点：以上各种材质的触点；</p><p>触桥：动/静触桥；</p><p>触点和基座的一体化冲件；</p><p>灭弧罩：一般我们推荐使用覆铜钢材质，亦可根据客户的要求特别定制。</p>",
+                "info3_en": "<p>Contact tip: We provide contacts made of materials mentioned above;<br />Bridge contact: movable/stationary bridge contacts;<br />Integrated stampings with contact and substrate;<br />Arcing Shield: Cu/Fe/Cu clad metals are recommended, and customized materials are also available upon request.</p>",
+                "pic": "20170630140137503.png",
+                "pic_size": "168478"
+            },
+            {
+                "tit": "小型断路器",
+                "tit_en": "Miniature circuit breaker",
+                "img_size": "77084",
+                "img": "20170629191644585.png",
+                "info1": "<p>断路器是一种过电流保护装置，可在室内配线上作总开关与分电流控制开关，亦可作为一种有效保护电器的重要元件，用于短路保护和防止严重超载。小型断路器（MCB）适用于交流50-60Hz、额定电压230V-400V、额定电流63A线路中的过载和短路保护，正常情况下也可作线路的不频繁操作转换之用。小型断路器主要用于工业、商业、高层和民用住宅等各种场所。</p>",
+                "info1_en": "<p>MCB is applicable to electric circuits with rated voltage 230-400V AC, frequency 50-60Hz and rated current up to 63A. The product provides protection against overload and short circuit to electric circuits and equipment in household and commercial installations. MCB is also used as non-frequent changeover of electric circuits.</p>",
+                "info2": "<p>银-石墨触点纤维组织均匀细腻，无毒环保，且具有很高的抗熔焊性和较低的接触电阻，所以被大量使用于小型断路器中。</p>",
+                "info2_en": "<p>Sliver graphite material is widely used to make contacts for miniature circuit breakers for it has excellent anti-welding property and low contact resistance and has neither toxic nor carcinogenic components.</p>",
+                "info3": "<p>我公司为小型断路器提供AgC触点，导电性能高、强度好的覆铜钢材质的灭弧栅片和触桥。</p>",
+                "info3_en": "<p>Hongfeng offers AgC contacts, contact bridges and arc splitter plates made of Cu/Fe/Cu clad metals that have excellent electrical conductivity and toughness for MCB.</p>",
+                "pic": "20170630140202330.png",
+                "pic_size": "148895"
+            },
+            {
+                "tit": "塑壳断路器",
+                "tit_en": "Molded-case circuit breaker",
+                "img_size": "77175",
+                "img": "20170629192810431.png",
+                "info1": "<p>塑壳断路器是一种在低压电路（即1000VAC以下）中使用的断路器，其额定电流可达1000A。塑壳断路器在电流超过跳脱设定后能够自动切断电流。其中塑壳指的是用塑料绝缘体来作为装置的外壳，用来隔离导体之间以及接地金属部分。塑壳断路器通常含有热磁跳脱单元，而大型号的塑壳断路器会配备固态跳脱传感器。<br />现在的配电系统要求断路器除了能通断电流实现电路控制和简单的短路、过载保护外，还要能提供隔离和安全保护功能，特别是在针对人身、设备安全与配电系统的可靠性方面都提出了新的要求。</p>",
+                "info1_en": "<p>Molded-case circuit breakers are utilized to open/close low-voltage circuits and protect wiring by automatically closing circuits when overloading or short-circuiting occurs. Its rated current is up to 1000A. Molded case refers to the insulating case that houses the breaker and insulates conductors from each other and the earthed metal parts.<br />Modern electrical distribution system places higher safety demand on circuit breaker. More concern is placed on personal safety, equipment reliability and system consistency.</p>",
+                "info2": "<p>1、应选用接触电阻稳定、导电率高、硬度高耐磨、对电弧的侵蚀、粘着力、熔焊的抵抗力大，能满足断路通断要求的材质。<br />2、通常我们选用银碳化钨或者银钨做触头材料。除触头外，宏丰还能根据客户的需要生产灭弧罩（覆铜钢）、动/静触桥（紫铜/黄铜）以及开关中的各种金属冲件。</p>",
+                "info2_en": "<p>1. Applied materials should have stable contact resistance, good electrical conductivity, high hardness, excellent anti-arc erosion and anti-welding properties.<br />2. Materials like silver tungsten carbide or silver tungsten are recommended for making electrical contacts. Besides contacts, we also supply customized arc extinguishing chamber (Cu/Fe/Cu clad metals), movable and stationary bridge contact (red cooper / brass) and various stamping parts for switches.</p>",
+                "info3": "",
+                "info3_en": "",
+                "pic": "20170630140217235.png",
+                "pic_size": "135267"
+            },
+            {
+                "tit": "智能型框架式断路器",
+                "tit_en": "Intelligent air circuit breaker",
+                "img_size": "77266",
+                "img": "20170629193559931.png",
+                "info1": "<p>智能型框架式断路器，又称万能式断路器，是一种既能接通、承载以及分断正常电路条件下的电流，也能在规定的非正常电路条件下接通、承载一定时间和分电流的一种机械开关电器。框架式断路器主要在配电网络中用来分配电能和保护线路及电源设备免受过载、欠电压、短路、单相接地等故障危害，因而必须具备能选择性保护、动作准确，全分断时间短、无飞弧等特点，以避免不必要的停电，提高供电可靠性。</p>",
+                "info1_en": "<p>Intelligent Air Circuit Breaker is also called conventional circuit breaker. It is extensively used as the main switch in the low voltage distribution switchboard. Its function is to control and protect the electrical circuit from damage and prevent power equipment from harm of overload, under-voltage, short circuit and single phase earth etc. With intelligent protecting function and precise selective protection, breaker can enhance the reliability of power supply and avoid unwanted power cut.</p>",
+                "info2": "<p>一般选用材质有：AgZnO(8)、AgZnO(12)、AgNi(20)、AgNi(30)、AgNi(30)C3及AgNi(40)。</p>",
+                "info2_en": "<p>Recommended materials are:AgZnO(8) , AgZnO(12) , AgNi(20) , AgNi(30) , AgNi(30)C(3) and AgNi(40).</p>",
+                "info3": "<p>除上述由材质生产的各种型号触头以外，我们还能根据客户的需要生产其配套的元器件，如覆铜钢灭弧罩、动/静触桥以及开关中的各种金属冲件。</p>",
+                "info3_en": "<p>Apart from contacts, we also supply customized arc extinguishing chamber (Cu/Fe/Cu clad metals), movable and stationary bridge contact and various stampings for switches.</p>",
+                "pic": "20170630140238402.png",
+                "pic_size": "141840"
+            },
+            {
+                "tit": "继电器",
+                "tit_en": " Relay",
+                "img_size": "77357",
+                "img": "20170629194118502.png",
+                "info1": "<p>继电器是一种电子控制器件，它具有控制系统（又称输入回路）和被控制系统（又称输出回路），通常应用于自动控制电路中。它实际上是用较小的电流去控制较大电流的一种&ldquo;自动开关&rdquo;：当输入量(如电压、电流、温度等)达到规定值时，使被控制的输出电路导通或断开的电器，故在电路中起着自动调节、安全保护、转换电路等作用。其原理与接触器原理相同，只是接触器控制的负载功率较大，故体积也较大。继电器具有动作快、工作稳定、使用寿命长、体积小等优点，广泛运用于电力保护、自动化、运动、遥控、测量和通信等装置中。</p>",
+                "info1_en": "<p>A relay is an electrically operated switch. Current flowing through the coil of the relay creates a magnetic field which attracts a lever and changes the switch contacts. Relays allow one low-power circuit to switch a second higher-power circuit which can be completely separated from the first. There is no electrical connection inside the relay between the two circuits; the link is magnetic and mechanical. When input (eg. Voltage, ampere, temperature) reaches a preset value, a relay switches on or off the controlled circuit for adjustment, protection or changeover. Relays have advantages of quick action, good stability, long service life, small volume, and thus are widely used in equipment for power protection, automation, measurement, remote control, communications, etc.</p>",
+                "info2": "<p>整体型：整体为银，或者为AgCdO、AgZnO和AgSnO2的常规触点<br />复合型：主要为降低成本而设计，常用的有：<br />AgCdO/Cu&nbsp;&nbsp; &nbsp;主要成分为银氧化镉，具有稳定的接触电阻<br />AgNi/Cu&nbsp;&nbsp; &nbsp;无镉材料，在耐电弧方面优于银氧化镉，在大电流范围内具有良好的抗粘接性<br />AgZnO/Cu&nbsp;&nbsp; &nbsp;具有比银氧化镉更高的热稳定性，耐电腐蚀能力良好，无毒，对环境无污染<br />AgSnO2/Cu&nbsp;&nbsp; &nbsp;是最有希望代替AgCdO的材料。此材料在耐电弧性和低粘结检测中更具优越性</p>",
+                "info2_en": "<p>Solid Type: pure silver or AgCdO, AgZnO or AgSnO2<br />Clad Type: specially engineered to save cost, typical materials are：<br />AgCdO/Cu main composition is AgCdO; stable contact resistance.<br />AgNi/Cu&nbsp;&nbsp; &nbsp;Cd-free, better arc erosion resistance than AgCdO, excellent anti-welding resistance under large current.<br />AgZnO/Cu higher thermostability than AgCdO, good electrical erosion resistance, nontoxic, and pollution-free.<br />AgSnO2/Cu most promising substitute for AgCdO material; excellent arc erosion resistance and anti-welding resistance.</p>",
+                "info3": "<p>公司主要采用上述材质，生产电磁式继电器用触点。其交付形态通常为铆钉。另外，我们还能根据您的需要生产电器中的动/静簧片（铁/铜质），并拥有元器件的组装能力，以提供配套服务，缩短工艺流程、降低产品成本。</p>",
+                "info3_en": "<p>We offer rivet contacts made of the above materials for electromagnetic relays. We also make customized movable/stationary contact spring (made of iron or copper). Besides, we offer component assembling service and supporting service, which are helpful in shortening process flow and reducing product cost.</p>",
+                "pic": "20170630140347969.png",
+                "pic_size": "189482"
+            },
+            {
+                "tit": "熔断器",
+                "tit_en": "Fuse",
+                "img_size": "77436",
+                "img": "20170629194610871.png",
+                "info1": "<p>熔断器是一种以金属导体作为熔体而分段电路的电器。当被保护电路的电流超过规定值，并经过一定时间后，由熔体自身产生的热量熔断熔体，从而对电力系统、各种电工设备及家用电器起到保护作用。熔断器广泛应用于低压配电系统和控制系统及用电设备中，作为短路和过电流保护，是应用最普遍的保护器件之一。</p>",
+                "info1_en": "<p>A fuse is a type of low resistance resistor that acts as a sacrificial device to provide overcurrent protection for either the load or source circuit. Its essential component is a metal wire or strip that melts when too much current flows, which interrupts the circuit in which it is connected. Short circuit, overloading, mismatched loads or device failure are the prime reasons for excessive current. Fuses are manufactured in a wide range of current and voltage ratings and are widely used to protect wiring systems and electrical equipment.</p>",
+                "info2": "",
+                "info2_en": "",
+                "info3": "<p>我们可以提供银桥数从1桥至6桥的带材，用来替代纯银作为熔断器的熔体材料。</p>",
+                "info3_en": "<p>We offer clad metal with silver stripes ranging from 1 to 6 instead of pure silver strip as materials for fuse element.</p>",
+                "pic": "20170630140553136.png",
+                "pic_size": "144509"
+            }
+        ],
+        "p2_2": [
+            {
+                "tit": "墙壁开关",
+                "tit_en": "Wall-mounted switch",
+                "img_size": "77539",
+                "img": "20170629195408410.png",
+                "info1": "<p>墙壁开关的接触结构包括壳体、按柄、叉杆、弹簧、静触点和动触点。静触点固定在壳体内，并与动触点相配合，动触点为滚筒式，且与叉杆活动连接，弹簧的两端分别套装在按柄和叉杆之间。</p>",
+                "info1_en": "<p>The contact system of wall mounted switch consists of enclosure, handle, fork arm, spring, stationary contact and movable contact. The stationary contact is fixed in the enclosure pairing with the sliding contact (movable contact). The movable contact is rolling type and connected with fork arm. Both ends of the spring are between the handle and fork arm.</p>",
+                "info2": "",
+                "info2_en": "",
+                "info3": "<p>1）跳板（又称摆片、触桥），通常为紫铜<br />2）触点<br />3）覆银的跳板</p>",
+                "info3_en": "<p>1)contact bridge, usually made of red copper<br />2)contact tips<br />3)Ag clad bridge</p>",
+                "pic": "20170630140605937.png",
+                "pic_size": "173404"
+            },
+            {
+                "tit": "电源插座",
+                "tit_en": "Socket outlet",
+                "img_size": "77630",
+                "img": "20170629195904124.png",
+                "info1": "<p>电源插座，俗称接线板或拖线板，又叫移动式插座转换器，由电源插头、电缆线、插座主体三部分构成。电源插座是终端设备与固定插座的电源连接转换器，必须保证用电的安全和可靠。</p>",
+                "info1_en": "<p>Socket outlet consists of plug, cable, and socket. The socket outlet works as a convertor connecting the terminal device and the plug to keep the circuit safe and reliable.</p>",
+                "info2": "",
+                "info2_en": "",
+                "info3": "<p>电源插座中的冲压件，其材质为青铜、铁或者黄铜。</p>",
+                "info3_en": "<p>Hongfeng offers the stamping parts of the outlet made of materials like bronze, iron or brass.</p>",
+                "pic": "20170630140616475.png",
+                "pic_size": "168975"
+            }
+        ],
+        "p2_3": [
+            {
+                "tit": "温控器",
+                "tit_en": "Thermostat",
+                "img_size": "77903",
+                "img": "20170629204242658.png",
+                "info1": "<p>温控器是利用热双金属的热膨胀系数不同的原理，用双金属片作温度采样元件，和开关结合，应用于汽车空调、热交换器的控温，同时也可用于民用冰箱、空调、热水器、电饭煲和电水壶等需要调控温度的地方。</p>",
+                "info1_en": "<p>A thermostat is a component of a control system which senses the temperature of a system so that the temperature is maintained near a desired set point. The thermostat does this by switching heating or cooling devices on or off, or regulating the flow of a heat transfer fluid as needed, to maintain the correct temperature.<br /><br />The most common of these technologies in thermostats is the bimetallic strip. This technology uses two thin strips of different metals &mdash; such as copper and iron, copper and steel and brass and steel &mdash; bonded together and rolled into a coil. As the temperature changes, the different metals expand or contact at different rates, causing the strip to bend. When the strip bends enough to touch an electrical contact and complete an electrical circuit, it turns on the heating or cooling system. If the temperature changes enough to unbend the strip, contact is lost, and the system turns off. Thermostats are applied in automotive air-conditioner, heat exchanger as well as in household appliances such as refrigerator, air-conditioner, water heater, electric cooker and electric kettle.</p>",
+                "info2": "",
+                "info2_en": "",
+                "info3": "<p>1、端子：Ag/BZn, Ag/Cu/Fe, AgNi10/Cu/Fe</p><p>2、纽扣触头：AgNi10/Cu/Fe430, AgCdO/Cu/Fe430</p>",
+                "info3_en": "<p>1. Terminal: Ag/BZn, Ag/Cu/Fe, AgNi(10)/Cu/Fe<br />2. Button contact: AgNi(10)/Cu/Fe430, AgCdO/Cu/Fe430</p>",
+                "pic": "20170630134958882.png",
+                "pic_size": "82754"
+            }
+        ],
+        "p2_4": [
+            {
+                "tit": "微电机",
+                "tit_en": "Micro motor",
+                "img_size": "77721",
+                "img": "20170629200329384.png",
+                "info1": "<p>微电机全称&ldquo;微型电动机&rdquo;，是指直径小于160mm或额定功率小于750W的电机，微型电机门类繁多，大体可分为直流电动机、交流电动机、自态角电机、步进电动机、旋转变压器、轴角编码器、交直流两用电动机、测速发电机、感应同步器、直线电机、压电电动机、电机机组、其他特种电机等13大类。</p><p><br />微电机常用于控制系统或传动机械负载中，用于实现机电信号或能量的检测、解析运算、放大、执行或转换等功能，或用于传动机械负载，也可作为设备的交、直流电源。</p>",
+                "info1_en": "<p>Micro Motors refer to motors with rated voltage lower than 750 W and diameter less than 160mm. They can be sorted into various categories: AC motor, DC motor, stepper motor, electric resolver, shaft encoder, universal AC/DC motor, tachogenerator, inductosyn, linear motor, piezo motor, electric motor assembly, etc.<br /><br />Micro motors are generally used in control system or mechanical transmission system to test, resolve, magnify, execute or convert electrical signals or power. It can also be used as AC/DC power supply for equipment.</p>",
+                "info2": "",
+                "info2_en": "",
+                "info3": "<p>主要应用于手机、振动器上的微型震动马达等。<br />我们的产品包含异型丝材，其材质有：AgCuZnNi、AgCuPd、AgCuIn等。</p>",
+                "info3_en": "<p>It is mainly applied to micro motors in cell phones, vibrators etc.<br />Our products include profiled wire made of the materials such as AgCuZnNi, AgCuPd, AgCuIn etc.</p>",
+                "pic": "20170630140632665.png",
+                "pic_size": "67939"
+            },
+            {
+                "tit": "轻触开关",
+                "tit_en": "Touch switch",
+                "img_size": "77812",
+                "img": "20170629200743458.png",
+                "info1": "<p>轻触开关一种电子开关，使用时轻轻点按开关按钮就可使开关接通，当松开手时开关即断开。其内部结构是靠金属弹片受力弹动来实现通断的。</p><p><br />轻触开关由体积小重量轻在家用电器方面得到广泛的应用。如：彩电按键，影碟机按键，电脑鼠标等等。除此以外，轻触开关还可用于控制照明灯和排风扇等小功率家用电器。该电子开关在市电停电后自动断开再次来电时不会自行接通 (需按动控制按钮才能接通)，可避免因电器长期通电而耗费电能或引发意外事故。</p>",
+                "info1_en": "<p>A touch switch is a kind of switch that only has to be touched by an object to operate. It has two metal plates which spring under external force to break and make the circuit.&nbsp;<br /><br />Small as it is, it is widely used in home power control applications for convenience such as TV power button, computer mouse etc. It is also used to control lamps, ventilators and other low power household appliance. This electronic switch breaks after electric supply is cut off and shall not make when the supply is restored until the button is pushed. Therefore, it prevents the unnecessary power consumption and accidents.</p>",
+                "info2": "",
+                "info2_en": "",
+                "info3": "<p>生产轻触开关用薄带材，其材质根据您的需要可以为整体型和复合型。<br />其中复合材质为Ag/QSn。</p>",
+                "info3_en": "<p>We offer thin strips either solid or clad according to your requirement.<br />The recommended material is Ag/QSn.</p>",
+                "pic": "20170630140653204.png",
+                "pic_size": "156200"
+            }
+        ]
+    },
+    "download_finish": 1
+}

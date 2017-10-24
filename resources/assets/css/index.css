@@ -1,0 +1,86 @@
+﻿@charset "utf-8";
+
+
+/*Index*/
+#Index .v1,
+#Index .v2{
+    position: absolute; left: 0; top: 0;
+}
+#Index .logo{
+    position: absolute; left: 203px; top: 388px;
+    width: 693px; height: 288px;
+    background: url(../img/index/logo.png) no-repeat;
+}
+#Index .box{
+    position: absolute; left: 1242px; top: 388px;
+    width: 627px; height: 417px;
+    background: url(../img/index/box.png) no-repeat;
+}
+#Index .btn1{
+    position: absolute; left: 1266px; top: 444px;
+    width: 549px; height: 144px;
+    background: url(../img/index/btn1.png) no-repeat;
+}
+#Index .btn2{
+    position: absolute; left: 1266px; top: 588px;
+    width: 549px; height: 141px;
+    background: url(../img/index/btn2.png) no-repeat;
+}
+#Index .copy{
+    position: absolute; top: 1038px; left: 1560px;
+    font-size: 21px;
+    color: #216a79;
+}
+
+/*#Index{*/
+    /*background: url("../img/p1/bg.png") no-repeat;*/
+/*}*/
+/*#Index .logo{*/
+    /*position: absolute; top: 864px; left: 74px;*/
+    /*width: 622px; height: 79px;*/
+    /*background: url("../img/p1/logo.png") no-repeat;*/
+/*}*/
+/*#Index .btn{*/
+    /*position: absolute; top: 0px; left: 1159px;*/
+    /*width: 761px; height: 1080px;*/
+    /*background: url("../img/p1/btn.png") no-repeat;*/
+/*}*/
+/*#Index .foot{*/
+    /*position: absolute; top: 1020px; left: 1418px;*/
+    /*width: 456px; height: 31px;*/
+    /*background: url("../img/p1/foot.png") no-repeat;*/
+/*}*/
+/*#Index .btns{*/
+    /*position: absolute; width: 667px; left: 94px;*/
+/*}*/
+/*#Index .btn1{*/
+    /*top:169px; height: 156px;*/
+    /*background: url("../img/p1/btn1.png") no-repeat;*/
+/*}*/
+/*#Index .btn2{*/
+    /*top:325px; height: 110px;*/
+    /*background: url("../img/p1/btn2.png") no-repeat;*/
+/*}*/
+/*#Index .btn3{*/
+    /*top:435px; height: 109px;*/
+    /*background: url("../img/p1/btn3.png") no-repeat;*/
+/*}*/
+/*#Index .btn4{*/
+    /*top:544px; height: 149px;*/
+    /*background: url("../img/p1/btn4.png") no-repeat;*/
+/*}*/
+/*#Index .btn1.act{*/
+    /*background: url("../img/p1/btn1_act.png") no-repeat;*/
+/*}*/
+/*#Index .btn2.act{*/
+    /*background: url("../img/p1/btn2_act.png") no-repeat;*/
+/*}*/
+/*#Index .btn3.act{*/
+    /*background: url("../img/p1/btn3_act.png") no-repeat;*/
+/*}*/
+/*#Index .btn4.act{*/
+    /*background: url("../img/p1/btn4_act.png") no-repeat;*/
+/*}*/
+/*#Index .btn_shd{*/
+    /*position: absolute; left: 0; top: 0; display: none;*/
+/*}*/
